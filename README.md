@@ -1,7 +1,8 @@
-Sales Analysis — Python Data Science Project
+📌 Sales Analysis — Python Data Science Project
+
 Author: Rashmi D. C.
 Tools Used: Python, Pandas, NumPy, Matplotlib, Seaborn
-Dataset: Sample Superstore — Orders Sheet
+Dataset: Superstore — Orders Sheet
 
 ⭐ Project Overview
 
@@ -98,10 +99,10 @@ Sub-categories like Binders, Paper, Phones dominate sales
 ✔ GitHub-ready documentation
 
 📂 Folder Structure
-superstore-sales-analysis/
+Sales Analysis using Python for Data Science/
 │
 ├── Sales_Analysis.py
-├── Sample-Superstore.xlsx
+├── Superstore.xlsx
 ├── output/
 │     ├── sales_by_category.png
 │     ├── profit_by_region.png
@@ -125,6 +126,11 @@ Run the main notebook:
 Sales_Analysis.py
 
 
+All plots & the PDF report will be generated automatically.
+
+📞 Contact
+
+Rashmi D. C
 📧 crashmi138@gmail.com
 
 🔗 LinkedIn: https://linkedin.com/in/rashmi-c-185670ba
